@@ -1,5 +1,5 @@
 ---
 languages:
-  tsql:
+  plsql:
     extensions:
       - '.sql'
