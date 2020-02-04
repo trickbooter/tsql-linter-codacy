@@ -11,9 +11,9 @@ SET NOCOUNT ON;
 -- print 'here';
   
  SELECT id, ts, v
- FROM dbo.deploy_log
+ from dbo.deploy_log
    WHERE id < 10
-  AND v = '1.0.0';
+  AND v = '1.0.0'
 
--- print 'open quote';
+print 'open quote
 
