@@ -8,7 +8,7 @@ SET NOCOUNT ON;
  poorly formatted code
   */
   
--- print 'here';
+print 'here';
   
  SELECT id, ts, v
  from dbo.deploy_log
