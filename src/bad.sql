@@ -1,7 +1,7 @@
 SET QUOTED_IDENTIFIER ON;
 SET ANSI_NULLS ON;
 SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
-SET NOCOUNT ON;
+SET NOCOUNT ON
 
 /*
  some
@@ -15,5 +15,5 @@ print 'here';
    WHERE id < 10
   AND v = '1.0.0'
 
-print 'open quote
+print 'open quote'
 
